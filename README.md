@@ -8,7 +8,7 @@ My work usually starts with the same question:
 
 > How do we help people do their best work with AI - without replacing their judgment, context, or craft?
 
-Right now I’m building open-source and startup projects around **agentic reliability, local developer workflows, AI-native infrastructure, and physical-world intelligence**.\
+Right now I’m building open-source and startup projects around **agentic reliability, local developer workflows, AI-native infrastructure, and physical-world intelligence**.
 
 ## Start Here
 

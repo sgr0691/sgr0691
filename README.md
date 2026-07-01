@@ -12,7 +12,7 @@ Right now I’m building open-source and startup projects around **agentic relia
 
 ## Start Here
 
-* 🛡️ **Rivora** - open-source adaptive reliability for teams using AI agents
+* 🛡️ [**Rivora**](https://github.com/rivora-dev/rivora) - open-source adaptive reliability for teams using AI agents
 * 🧭 [**Root**](https://github.com/sgr0691/Root) - a safer, agent-friendly package workflow powered by Nix
 * 📦 **Fathom** - understand any software package in seconds
 * 🔐 **Prax** - every agent action explained before it happens

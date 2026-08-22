@@ -1,6 +1,6 @@
 # Hi, I'm Sergio ✌🏽
 
-📍 **VA <> SF | 🎨 ****Product Designer** | ⚙️ **Frontend Developer** | 🤖 **AI-native tools builder**
+📍 **VA <> SF | ⚙️ **Design Developer** | 🤖 **AI-native tools builder**
 
 I build products at the edge of **design, infrastructure, and AI agents**.
 
